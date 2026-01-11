@@ -1,6 +1,3 @@
-# task-list-application-project
-Task list application for adding, viewing, and removing tasks in real time. 
-
 <h1>Project Overview</h1>
 The To-Do List Application is a command-line interface (CLI) tool designed to help users manage their daily tasks efficiently. It provides a simple yet effective environment for adding, viewing, and removing tasks in real-time.
 
